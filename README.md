@@ -31,11 +31,11 @@
 <pre align="center">
   <code style="color: #e83e8c;">
 keremdemir@keremdemir:~$ cat KeremDemir.js
-  const name = "Kerem Demir";
-  const Instagram = "<a href="https://wwww.instagram.com/keremdemirsec/" style="color: #fff;">Kerem Demir</a>";
-  const Telegram = "<a href="https://t.me/keremdemirsec/" style="color: #fff;">Kerem Demir</a>";
-  console.log(`Merhaba, ben ${name}!\n<a href="https://wwww.instagram.com/keremdemirsec/" style="color: #fff;">Telegram Adresim ${Telegram}</a>
-          <a href="https://wwww.instagram.com/keremdemirsec/" style="color: #fff;">Instagram Adresim ${Instagram}</a>`);
+
+const name = "Kerem Demir";
+const Instagram = "<a href="https://wwww.instagram.com/keremdemirsec/" style="color: #fff;">Kerem Demir</a>";
+const Telegram = "<a href="https://t.me/keremdemirsec/" style="color: #fff;">Kerem Demir</a>";
+console.log(`Merhaba, ben ${name}!\n<a href="https://wwww.instagram.com/keremdemirsec/" style="color: #fff;">Telegram Adresim ${Telegram}</a> <a href="https://wwww.instagram.com/keremdemirsec/" style="color: #fff;">Instagram Adresim ${Instagram}</a>`);
   </code>
 </pre>
 
