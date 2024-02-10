@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba, Ben Furkan Kerem Demir 👋</h1>
-<h3 align="center">Türk Geliştirici | Cybersecurity Enthusiast</h3>
+<h3 align="center">Yazılım Geliştirici | Siber Güvenlik Uzmanı</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -13,9 +13,9 @@
   </a>
 </p>
 
-<p align="center">Merhaba, ben Furkan Kerem Demir. Yazılım geliştirme ve siber güvenlik alanlarında çalışıyorum. Ayrıca, WouldHack adında bir projede çalışıyorum ve Assembly dili üzerine kendimi geliştiriyorum.</p>
+<p align="center">Merhaba, ben Furkan Kerem Demir. Yazılım geliştirme ve siber güvenlik alanlarında uzmanlaşmış bir geliştiriciyim. Ayrıca, aktif olarak WouldHack adlı projede çalışıyor ve Assembly dili üzerinde kendimi geliştiriyorum.</p>
 
-<h3 align="center">📫 Bana nasıl ulaşabilirsiniz:</h3>
+<h3 align="center">📫 Bana Nasıl Ulaşabilirsiniz:</h3>
 <p align="center">
   <a href="mailto:keremdemirsec@gmail.com">keremdemirsec@gmail.com</a> •
   <a href="https://instagram.com/keremdemirsec">Instagram</a> •
@@ -24,7 +24,7 @@
   <a href="https://dev.to/keremdemirsec">Dev.to</a>
 </p>
 
-<h3 align="center">🚀 Diller ve Araçlar:</h3>
+<h3 align="center">🚀 Kullandığım Teknolojiler:</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
@@ -38,7 +38,7 @@
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
 </p>
 
-<h3 align="center">💼 Projeler:</h3>
+<h3 align="center">💼 Projelerim:</h3>
 <p align="center">
   <a href="https://t.me/wouldhack">WouldHack</a> •
   <a href="https://github.com/keremdemirsec">GitHub</a> •
