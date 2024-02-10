@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Kerem Demir</title>
-</head>
-<body>
-
 <h1 align="center">Merhaba, Ben Kerem Demir <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-58-1175247.png?w=22"></h1>
 <p align="center">
   <em>Programlama ve Kod Sanatçısı</em>
@@ -49,5 +40,3 @@ console.log(`Merhaba, ben ${name}!\n`<a href="https://wwww.instagram.com/keremde
 <p align="center">
   <img src="img/TS0a.gif" alt="Contribution Grid Snake">
 </p>
-</body>
-</html>
