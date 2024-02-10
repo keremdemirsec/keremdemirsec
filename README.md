@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kerem Demir</title>
+</head>
+<body>
+
 <h1 align="center">Merhaba, Ben Kerem Demir <img src="https://cdn.iconscout.com/icon/free/png-512/free-c-58-1175247.png?w=22"></h1>
 <p align="center">
   <em>Programlama ve Kod Sanatçısı</em>
@@ -5,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/keremdemirsec">
-  <img src="https://i.gifer.com/3uvT.gif"></img><p>
+  <img src="img/3uvT.gif"></img><p>
   </a>
 </p>
 
@@ -22,10 +31,10 @@
 <pre align="center">
   <code style="color: #e83e8c;">
 keremdemir@keremdemir:~$ cat KeremDemir.js
-const name = "Kerem Demir";
-     const Instagram = "<a href="https://wwww.instagram.com/keremdemirsec/" style="color: #fff;">Kerem Demir</a>";
-    const Telegram = "<a href="https://t.me/keremdemirsec/" style="color: #fff;">Kerem Demir</a>";
-          console.log(`Merhaba, ben ${name}!\n<a href="https://wwww.instagram.com/keremdemirsec/" style="color: #fff;">Telegram Adresim ${Telegram}</a>
+  const name = "Kerem Demir";
+  const Instagram = "<a href="https://wwww.instagram.com/keremdemirsec/" style="color: #fff;">Kerem Demir</a>";
+  const Telegram = "<a href="https://t.me/keremdemirsec/" style="color: #fff;">Kerem Demir</a>";
+  console.log(`Merhaba, ben ${name}!\n<a href="https://wwww.instagram.com/keremdemirsec/" style="color: #fff;">Telegram Adresim ${Telegram}</a>
           <a href="https://wwww.instagram.com/keremdemirsec/" style="color: #fff;">Instagram Adresim ${Instagram}</a>`);
   </code>
 </pre>
@@ -38,5 +47,7 @@ const name = "Kerem Demir";
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/TS0a.gif" alt="Contribution Grid Snake">
+  <img src="img/TS0a.gif" alt="Contribution Grid Snake">
 </p>
+</body>
+</html>
